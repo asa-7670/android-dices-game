@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dices game</string>
+    <string name="dice_6_sided_label">dé à 6 faces</string>
+    <string name="dice_20_sided_label">dé à 20 faces</string>
+    <string name="title_label">faces</string>
+    <string name="roll_btn_label">Lancer les dés...</string>
+</resources>
